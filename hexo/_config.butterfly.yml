@@ -1,7 +1,7 @@
-favicon: https://data.calacaly.cn/favicon.ico
+favicon: https://data.calacaly.cn/minku.jpg
 
 avatar:
-  img: https://data.calacaly.cn/avatar.ico
+  img: https://data.calacaly.cn/minku.jpg
   effect: fales
 
 disable_top_img: false
@@ -87,9 +87,9 @@ post_copyright:
   author_href:
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
-copyright_author: xxxx
-copyright_author_href: https://xxxxxx.com
-copyright_url: https://xxxxxx.com
+copyright_author: calacaly
+copyright_author_href: https://blog.calacaly.cn
+copyright_url: https://blog.calacaly.cn
 copyright_info: 此文章版权归xxxxx所有，如有转载，请註明来自原作者
 
 related_post:
@@ -319,7 +319,7 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - "Welcome to Cacaly🥝blog Home!🤣🤣🤣"
+    - "Welcome to Cacaly blog Home!🤣🤣🤣"
     - "Hope you have a nice day!🍭🍭🍭"
 
 # 加载动画 Loading Animation
