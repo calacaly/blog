@@ -1,0 +1,21 @@
+- class_name: 画廊
+  class_desc: 勿忘世界
+  link_list:
+    - name: pictures
+      link: https://pitures.calacaly.cn/
+      avatar: https://pitures.calacaly.cn/
+      descr: 我眼中的世界
+      siteshot: https://pitures.calacaly.cn/
+- class_name: 参考教程
+  class_desc: 大佬们的hexo博客教程
+  link_list:
+    - name: Fomalhaut博客教程
+      link: https://www.fomal.cc/posts/e593433d.html/
+      avatar: https://sourcebucket.s3.bitiful.net/img/avatar.webp
+      descr: Fomalhaut大佬的hexo博客教程
+      siteshot: https://www.fomal.cc/posts/e593433d.html/
+    - name: Ariasaka博客教程
+      link: https://yisous.xyz/posts/895003b5/
+      avatar: https://sdn.geekzu.org/avatar/795ce413eb6c7485954b78283ffa3e00?s=60
+      descr: Fomalhaut大佬的hexo博客教程
+      siteshot: https://yisous.xyz/posts/895003b5/
