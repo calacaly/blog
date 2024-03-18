@@ -155,11 +155,9 @@ cover:
 
 default_cover:
   - https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
-  - https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg2.png
-  - https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg3.png
 
 translate:
-  enable: false
+  enable: true
   # 默认按钮显示文字(网站是简体，应设置为'default: 繁')
   default: 简
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
@@ -174,7 +172,7 @@ translate:
 
 # dark mode
 darkmode:
-  enable: false
+  enable: true
   # dark 和 light 两种模式切换按钮
   button: true
   # Switch dark/light mode automatically (自動切換 dark mode和 light mode)
@@ -353,4 +351,5 @@ inject:
   head:
     - <link rel="stylesheet" href="/css/custom.css">
   bottom:
-    - <script src="xxxx"></script>
+    - <script src="/js/custom.js"></script>
+    - <script src="/js/sakura.js"></script>
